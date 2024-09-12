@@ -1,0 +1,90 @@
+[
+    {
+        "id": 2,
+        "name": "Adventure Tales",
+        "title": "Exciting stories from faraway ",
+        "price": 5,
+        "category": "Paid",
+       "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 3,
+        "name": "Science Experiments",
+        "title": "Hands-on experiments for curious minds",
+        "price": 12,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 4,
+        "name": "Mystery Novel",
+        "title": "Solve the thrilling whodunits",
+        "price": 8,
+        "category": "free",
+       "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy World",
+        "title": "Enter a realm of magic and wonder",
+        "price": 15,
+        "category": "Paid",
+       "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 6,
+        "name": "Children's Story",
+        "title": "Fun stories for young readers",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 7,
+        "name": "Historical Chronicles",
+        "title": "Explore the events that shaped our world",
+        "price": 10,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 8,
+        "name": "Cookbook Collection",
+        "title": "Delicious recipes for every occasion",
+        "price": 7,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 9,
+        "name": "Poetry Anthology",
+        "title": "A collection of poems from various authors",
+        "price": 3,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 10,
+        "name": "Travel Guides",
+        "title": "Your companion for world adventures",
+        "price": 9,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 11,
+        "name": "Art of War",
+        "title": "Ancient strategies for modern challenges",
+        "price": 6,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    },
+    {
+        "id": 12,
+        "name": "Mindfulness Guide",
+        "title": "A journey to inner peace and awareness",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931136.jpg?t=st=1723888044~exp=1723891644~hmac=a929c76c26abca4afaa6d907751b59af9684f8b425a8fe7ec3f4f8c9b08e39bf&w=360"
+    }
+]
